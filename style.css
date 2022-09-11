@@ -1,0 +1,76 @@
+
+body{
+    width: 100%;
+    margin: 0;
+    background: linear-gradient(blue,orange);
+    opacity: 0.9;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+ 
+header{
+    height: auto;
+}
+
+.logo-a{
+margin: 30px;
+}
+
+main {
+    display: flex;
+    margin-left: 80px;
+    margin-bottom: 50px;
+}
+
+.caja-1{
+    width: 60%;
+    padding-top: 150px;
+}
+
+.input-texto{
+    width: 90%;
+    height: 300px;
+}
+
+button{
+    border-radius: 10px;
+    width: 45%;
+    height: 3em;
+    font-weight: bold;
+}
+
+.encriptar , .desencriptar{
+    background-color: #0A3871; 
+    font-size: 18px;   
+    color: #E5E5E5;
+    text-align: center;
+}
+
+.botones{
+    margin-top: 50px;
+}
+
+.caja-2{
+    width: 25%;
+
+}
+
+.mensaje{
+    width: 80%;
+    height: 450px;
+    background-image: url(imagenes/Muñeco.png);
+    background-repeat: no-repeat;
+    background-position: 40px;
+    background-size: 200px;
+
+}
+
+.copiar{
+    background-color: #0A3871; 
+    font-size: 18px;   
+    color: #E5E5E5;
+    margin: 3em 4em;
+
+
+}
+
